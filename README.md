@@ -3,7 +3,7 @@
 Antes de tudo: é preciso ter um editor de Python para rodar esse código. Utilizei o Google Colab e o recomendo. Os gráficos podem dar algum tipo de problema em outros editores, mas nesse é sem erro =D
  
  Desafio:
- 	O número de cientes que estão cancelando seus cartões de crédito está aumentando. O diretor da empresa deseja entender esse fenômeno: o que fazer para evitar isso e como saber as pessoas que têm maior tendência para cancelar o cartão.
+ 	O número de clientes que estão cancelando seus cartões de crédito está aumentando. O diretor da empresa deseja entender esse fenômeno: o que fazer para evitar isso e como saber as pessoas que têm maior tendência para cancelar o cartão.
  	Temos em mão uma Base de Dados com informações dos clientes - a planílha "ClientesBanco.csv", que deve ser importada no código.
  	
  Observação: para o código importar a base de dados, seu caminho deve estar especificado na linha 5
