@@ -8,5 +8,5 @@ Antes de tudo: é preciso ter um editor de Python para rodar esse código. Utili
  	
  Observação: para o código importar a base de dados, seu caminho deve estar especificado na linha 5
  
- O cógigo gerou diversos gráficos. Os mais importantes estão na pasta "GraficosAnalisados", e suas respectivas conclusões estão no arquivo "Conclusoes.txt". Vale lembrar que essa análise é feita de maneira particular, o que uma pessoa ve como um problema, outra não pode ver o mesmo. Em questão de código, tudo está no arquivo "Analise.ipynb"
+ O código gerou diversos gráficos. Os mais importantes estão na pasta "GraficosAnalisados", e suas respectivas conclusões estão no arquivo "Conclusoes.txt". Vale lembrar que essa análise é feita de maneira particular, o que uma pessoa ve como um problema, outra não pode ver o mesmo. Em questão de código, tudo está no arquivo "Analise.ipynb"
  
