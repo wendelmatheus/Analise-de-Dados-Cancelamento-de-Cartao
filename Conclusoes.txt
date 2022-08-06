@@ -1,0 +1,12 @@
+O que é possível concluir segundo os gráficos:
+
+1- A maioria dos clientes que cancelaram são da categoria Blue
+2- Quanto mais o cliente entra em contato, maior a probabilidade dele cancelar
+3- Quem usa pouco o cartão, tem mais probabilidade de cancelar o cartão
+	-> tendo mais de 80 transições, a probabilidade do cliente cancelar é baixíssima
+	-> clientes com menos de 60 transações cancelam muito
+	-> o mesmo fenômeno ocorre com a quantidade de transações
+	
+Plano de ação:
+	Quando os clientes entram em contato, é preciso realmente dar a devida atenção e realmente solucionar seu problema
+
