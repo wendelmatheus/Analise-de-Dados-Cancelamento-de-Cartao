@@ -1,4 +1,6 @@
 # Analise de Dados Cancelamento de Cartao
+
+Antes de tudo: é preciso ter um editor de Python para rodar esse código. Utilizei o Google Colab e o recomendo. Os gráficos podem dar algum tipo de problema em outros editores, mas nesse é sem erro =D
  
  Desafio:
  	O número de cientes que estão cancelando seus cartões de crédito está aumentando. O diretor da empresa deseja entender esse fenômeno: o que fazer para evitar isso e como saber as pessoas que têm maior tendência para cancelar o cartão.
